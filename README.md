@@ -213,21 +213,33 @@ New to open source? Start here!
 - [Python Official Tutorial](https://docs.python.org/3/tutorial/)
 - [Real Python](https://realpython.com/)
 - [Python for Everybody](https://www.py4e.com/)
+- [Python Roadmap](https://roadmap.sh/python)
 
 ### Web Development
 - [Flask Documentation](https://flask.palletsprojects.com/)
 - [Django Documentation](https://docs.djangoproject.com/)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
+- [SQLAlchemy Documentation](https://www.sqlalchemy.org/)
+- [MongoEngine Documentation](https://docs.mongoengine.org/)
+- [Uvicorn Documentation](https://uvicorn.dev/)
+- [Gunicorn Documentation](https://gunicorn.org/)
+
+### Web Scraping
+- [Scrapy Documentation](https://docs.scrapy.org/en/latest/)
+- [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 ### AI/ML
 - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
 - [PyTorch Tutorials](https://pytorch.org/tutorials/)
+- [Scikit Learn Documentation](https://www.nltk.org/)
+- [Natural Language Toolkit Documentation](https://scikit-learn.org/stable/index.html)
 - [Fast.ai Courses](https://www.fast.ai/)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
 
 ### Data Science
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
 - [Kaggle Learn](https://www.kaggle.com/learn)
+- [UC Irvine Datasets](https://archive.ics.uci.edu/)
 
 ---
 

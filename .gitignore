@@ -7,3 +7,10 @@ build/
 .env
 .vscode/
 .ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+
+# Wordlists
+Password-Generator/eff_large_wordlist.txt
